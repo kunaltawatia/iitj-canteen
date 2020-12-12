@@ -70,3 +70,5 @@ react-native run-android
 
  1. Star this repo.
  2. Push a PR in this README, adding your details in the above table.
+
+[![](https://img.shields.io/badge/Donate-Jupyter?style=for-the-badge)](https://razorpay.webug.space/kunaltawatia/iitj-canteen)
